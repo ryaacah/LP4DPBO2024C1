@@ -58,7 +58,7 @@ lalu akan membuat class garage dengan anaknya (parking lot) dengan atribut :
 * jumlahKendaraan
 dan dalam atribut daftar kendaraan maka akan dicomposite dengan vehicle sehingga isi dari daftarKendaraan akan berupa sebuah list dari vehicle
 
-##output 
+## output 
 
 ![SS_cpp1](SS_cpp1.png)
 
