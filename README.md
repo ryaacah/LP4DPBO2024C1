@@ -1,5 +1,5 @@
 # Janji
-Saya Raya Cahya Nurani NIM 2205714 mengerjakan soal Latihan Praktikum 2 dalam mata kuliah Desain Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Raya Cahya Nurani NIM 2205714 mengerjakan soal Latihan Praktikum 4 dalam mata kuliah Desain Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Program
 Pada program ini class vehicle merupakan parent dari car dan motorcycle, dan garage memiliki anak yaitu parkingLot. yang nantinya garage akan mengcomposite dari vehicle.
